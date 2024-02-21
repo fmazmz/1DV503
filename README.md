@@ -1,2 +1,6 @@
-# 1DV503
-Database &amp; MySQL Course
+# Databases &amp; MySQL
+## Assignment 1
+Entity Relationships
+
+Grade : A
+
